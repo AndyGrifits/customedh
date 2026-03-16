@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "sleeves": {
-    "classic": "https://your-cdn.com/sleeves/classic.png",
-    "waves": "https://bambola.je/cdn/shop/products/1029064_256x.jpg?v=1602140888",
-    "flames": "https://your-cdn.com/sleeves/flames.png",
-    "storm": "https://your-cdn.com/sleeves/storm.png"
-  },
   "playmats": {
-    "island": "https://your-cdn.com/playmats/island.jpg",
-    "swamp": "https://your-cdn.com/playmats/swamp.jpg",
-    "forest": "https://your-cdn.com/playmats/forest.jpg",
-    "plains": "https://your-cdn.com/playmats/plains.jpg",
-    "mountains": "https://img.goodfon.com/wallpaper/nbig/e/c6/sanic-sonic-meme-funny.webp",
-    "stormforge-bastion": "https://your-cdn.com/playmats/stormforge-bastion.jpg",
-    "cathedral": "https://your-cdn.com/playmats/cathedral.jpg",
-    "sanctum-of-insight": "https://your-cdn.com/playmats/sanctum-of-insight.jpg",
-    "elderwood-tree": "https://your-cdn.com/playmats/elderwood-tree.jpg",
-    "sunlit-citadel": "https://your-cdn.com/playmats/sunlit-citadel.jpg",
-    "hellfire-keep": "https://your-cdn.com/playmats/hellfire-keep.jpg",
-    "blighted-wasteland": "https://your-cdn.com/playmats/blighted-wasteland.jpg",
-    "coral-groove": "https://your-cdn.com/playmats/coral-groove.jpg",
-    "undercity-of-shadows": "https://your-cdn.com/playmats/undercity-of-shadows.jpg",
-    "infested-morass": "https://your-cdn.com/playmats/infested-morass.jpg"
+    "blue": "",
+    "black": "",
+    "green": "",
+    "white": "",
+    "red": "",
+    "red_blue": "",
+    "white_black": "",
+    "white_blue": "",
+    "white_green": "",
+    "white_red": "",
+    "red_black": "",
+    "red_green": "",
+    "blue_green": "",
+    "blue_black": "",
+    "black_green": ""
+  },
+  "sleeves": {
+    "classic": "",
+    "waves": "",
+    "flames": "",
+    "storm": ""
   }
 }
