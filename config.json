@@ -1,26 +1,31 @@
 {
   "version": 1,
-  "playmats": {
-    "blue": "",
-    "black": "",
-    "green": "",
-    "white": "",
-    "red": "https://img.goodfon.com/wallpaper/nbig/9/91/battlefield-hardline-visceral-947.webp",
-    "red_blue": "",
-    "white_black": "",
-    "white_blue": "",
-    "white_green": "",
-    "white_red": "",
-    "red_black": "",
-    "red_green": "",
-    "blue_green": "",
-    "blue_black": "",
-    "black_green": ""
-  },
   "sleeves": {
     "classic": "",
-    "waves": "https://bambola.je/cdn/shop/products/1029064_256x.jpg?v=1602140888",
+    "waves": "https://example.com/sleeves/waves.png",
     "flames": "",
     "storm": ""
+  },
+  "players": {
+    "AO": {
+      "playerId": "3fa608e8-8374-48c3-a71f-043211518d4e",
+      "playmat": "https://img.goodfon.com/wallpaper/nbig/a/d8/by-lordhayabusa35-star-wars-stormtroopers-troopers-blaster-w.webp"
+    },
+    "Lev": {
+      "playerId": "",
+      "playmat": ""
+    },
+    "Nikita": {
+      "playerId": "",
+      "playmat": ""
+    },
+    "Max": {
+      "playerId": "",
+      "playmat": ""
+    },
+    "Oleg": {
+      "playerId": "",
+      "playmat": ""
+    }
   }
 }
