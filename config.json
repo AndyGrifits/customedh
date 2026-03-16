@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "playmats": {
+    "Island": "https://example.com/playmats/island.jpg",
+    "Swamp": "https://example.com/playmats/swamp.jpg",
+    "Forest": "https://example.com/playmats/forest.jpg",
+    "Plains": "https://example.com/playmats/plains.jpg",
+    "Mountains": "https://example.com/playmats/mountains.jpg",
+    "Stormforge Bastion": "https://example.com/playmats/stormforge-bastion.jpg",
+    "Cathedral": "https://example.com/playmats/cathedral.jpg",
+    "Sanctum of Insight": "https://example.com/playmats/sanctum-of-insight.jpg",
+    "Elderwood Tree": "https://example.com/playmats/elderwood-tree.jpg",
+    "Sunlit Citadel": "https://example.com/playmats/sunlit-citadel.jpg",
+    "Hellfire Keep": "https://example.com/playmats/hellfire-keep.jpg",
+    "Blighted Wasteland": "https://example.com/playmats/blighted-wasteland.jpg",
+    "Coral Groove": "https://example.com/playmats/coral-groove.jpg",
+    "Undercity of Shadows": "https://example.com/playmats/undercity-of-shadows.jpg",
+    "Infested Morass": "https://example.com/playmats/infested-morass.jpg"
+  },
+  "sleeves": {
+    "Classic": "https://example.com/sleeves/classic.png",
+    "Waves": "https://example.com/sleeves/waves.png",
+    "Flames": "https://example.com/sleeves/flames.png",
+    "Storm": "https://example.com/sleeves/storm.png"
+  }
+}
