@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "playmats": {
-    "Island": "https://example.com/playmats/island.jpg",
-    "Swamp": "https://example.com/playmats/swamp.jpg",
-    "Forest": "https://example.com/playmats/forest.jpg",
-    "Plains": "https://example.com/playmats/plains.jpg",
-    "Mountains": "https://img.goodfon.com/wallpaper/nbig/e/c6/sanic-sonic-meme-funny.webp",
-    "Stormforge Bastion": "https://example.com/playmats/stormforge-bastion.jpg",
-    "Cathedral": "https://example.com/playmats/cathedral.jpg",
-    "Sanctum of Insight": "https://example.com/playmats/sanctum-of-insight.jpg",
-    "Elderwood Tree": "https://example.com/playmats/elderwood-tree.jpg",
-    "Sunlit Citadel": "https://example.com/playmats/sunlit-citadel.jpg",
-    "Hellfire Keep": "https://example.com/playmats/hellfire-keep.jpg",
-    "Blighted Wasteland": "https://example.com/playmats/blighted-wasteland.jpg",
-    "Coral Groove": "https://example.com/playmats/coral-groove.jpg",
-    "Undercity of Shadows": "https://example.com/playmats/undercity-of-shadows.jpg",
-    "Infested Morass": "https://example.com/playmats/infested-morass.jpg"
-  },
   "sleeves": {
-    "Classic": "https://example.com/sleeves/classic.png",
-    "Waves": "https://bambola.je/cdn/shop/products/1029064_256x.jpg?v=1602140888",
-    "Flames": "https://example.com/sleeves/flames.png",
-    "Storm": "https://example.com/sleeves/storm.png"
+    "classic": "https://your-cdn.com/sleeves/classic.png",
+    "waves": "https://bambola.je/cdn/shop/products/1029064_256x.jpg?v=1602140888",
+    "flames": "https://your-cdn.com/sleeves/flames.png",
+    "storm": "https://your-cdn.com/sleeves/storm.png"
+  },
+  "playmats": {
+    "island": "https://your-cdn.com/playmats/island.jpg",
+    "swamp": "https://your-cdn.com/playmats/swamp.jpg",
+    "forest": "https://your-cdn.com/playmats/forest.jpg",
+    "plains": "https://your-cdn.com/playmats/plains.jpg",
+    "mountains": "https://img.goodfon.com/wallpaper/nbig/e/c6/sanic-sonic-meme-funny.webp",
+    "stormforge-bastion": "https://your-cdn.com/playmats/stormforge-bastion.jpg",
+    "cathedral": "https://your-cdn.com/playmats/cathedral.jpg",
+    "sanctum-of-insight": "https://your-cdn.com/playmats/sanctum-of-insight.jpg",
+    "elderwood-tree": "https://your-cdn.com/playmats/elderwood-tree.jpg",
+    "sunlit-citadel": "https://your-cdn.com/playmats/sunlit-citadel.jpg",
+    "hellfire-keep": "https://your-cdn.com/playmats/hellfire-keep.jpg",
+    "blighted-wasteland": "https://your-cdn.com/playmats/blighted-wasteland.jpg",
+    "coral-groove": "https://your-cdn.com/playmats/coral-groove.jpg",
+    "undercity-of-shadows": "https://your-cdn.com/playmats/undercity-of-shadows.jpg",
+    "infested-morass": "https://your-cdn.com/playmats/infested-morass.jpg"
   }
 }
