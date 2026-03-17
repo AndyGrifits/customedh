@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 9,
   "sleeves": {
     "_comment": "Nikita sleeve:",
     "classic": "https://m.media-amazon.com/images/I/81P2cRPfUdL._AC_UF894,1000_QL80_.jpg",
@@ -21,7 +21,7 @@
     },
     "Nikita": {
       "playerId": "6d1cc299-30e7-4ff5-b08e-3a27920e26a8",
-      "playmat": "https://www.andycards.it/upload/media/gallery/0002/45/ba6931060a5abe2b6230df8799923ce4c62d348d.png"
+      "playmat": "https://tcgplayer-cdn.tcgplayer.com/product/630349_in_1000x1000.jpg"
     },
     "Max": {
       "playerId": "9bace0d8-5822-4a0c-8c98-b086f063db06",
