@@ -39,29 +39,54 @@
       "replace": "https://i.pinimg.com/736x/89/7d/b3/897db380c42e4f72d6c333b0461de44a.jpg"
     },
     {
-      "name": "Swamp",
+      "name": "Swamp1",
       "match": "58496a56-437f-4204-9691-f63795e5cdab",
       "replace": "https://i.pinimg.com/736x/c9/68/3f/c9683fd076836ecd89d54748763ca6c6.jpg"
     },
     {
-      "name": "Plains",
+      "name": "Plains1",
       "match": "df31f72c-076e-4d8e-9975-6d6281ab71f6",
       "replace": "https://i.pinimg.com/736x/67/d9/fd/67d9fda46c15f6502f933405df318601.jpg"
     },
     {
-      "name": "Forest",
+      "name": "Forest1",
       "match": "673141ec-826f-4132-8282-d499990495a7",
       "replace": "https://i.pinimg.com/736x/e8/85/da/e885dad836e166cfb3749be369c8d269.jpg"
     },
     {
-      "name": "Mountains",
+      "name": "Mountains1",
       "match": "de0ac2b0-175b-4e71-9172-ce2a72234818",
       "replace": "https://i.pinimg.com/736x/86/35/1d/86351d262b2d97d36b5cc9e96fcd3fd8.jpg"
     },
     {
-      "name": "Island",
+      "name": "Island1",
       "match": "aaa212be-1db5-4493-86c8-c01d29348e31",
       "replace": "https://i.pinimg.com/736x/b4/59/07/b459072f261bf1b8e7f395f57e27c1c2.jpg"
+    },
+    {
+      "name": "Swamp2",
+      "match": "e969e168-e74c-4608-9fa0-a5660bf7fa02",
+      "replace": "https://i.pinimg.com/736x/c0/49/4d/c0494d11192609b1202ff292e3d43403.jpg"
+    },
+    {
+      "name": "Plains2",
+      "match": "2d2da8b9-797f-46e8-a15d-a86c7c56dc84",
+      "replace": "https://i.pinimg.com/736x/84/ec/96/84ec96b8984b7be27462eaa156c26586.jpg"
+    },
+    {
+      "name": "Forest2",
+      "match": "777e868d-cb88-4b8e-99d1-12ff67f5eae2",
+      "replace": "https://i.pinimg.com/736x/f3/55/8a/f3558a2433c1abe25b22a180fb1f0f1d.jpg"
+    },
+    {
+      "name": "Mountains2",
+      "match": "50748a4c-43a0-4274-9a84-046d76027166",
+      "replace": "https://i.pinimg.com/736x/1e/25/70/1e2570458b1a9ec7b7a5d9ca320b9863.jpg"
+    },
+    {
+      "name": "Island2",
+      "match": "f53ed206-8ec4-46a6-8603-c819682e1433",
+      "replace": "https://i.pinimg.com/736x/ea/25/fe/ea25fe3fa33088898e019b4a8b0a9a0a.jpg"
     }
   ]
 }
