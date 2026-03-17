@@ -13,7 +13,7 @@
   "players": {
     "AO": {
       "playerId": "3fa608e8-8374-48c3-a71f-043211518d4e",
-      "playmat": "https://i.redd.it/nah-id-win-v0-epcjymbbd3hc1.jpg?width=3000&format=pjpg&auto=webp&s=9d06e708117664dccbf05f13d258938b81328520"
+      "playmat": "https://images2.alphacoders.com/136/1360490.jpeg"
     },
     "Lev": {
       "playerId": "273fed74-bc60-41d1-9ecb-7139f1992fd3",
@@ -31,5 +31,15 @@
       "playerId": "",
       "playmat": ""
     }
-  }
+  },
+  "cardOverrides": [
+    {
+      "name": "Test card override",
+      "match": "308cc687-9cb2-4e3a-98db-c5ba2a7da115",
+      "replace": {
+        "small": "https://example.com/cards/test-small.jpg",
+        "normal": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lmam0xbDlvZ2c4d3I0bWl1eW03bTFyMm0xOG9mbGxiZTBqZXk0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GIyCdCSkU05ECsxEP/giphy.gif"
+      }
+    }
+  ]
 }
