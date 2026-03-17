@@ -1,10 +1,10 @@
 {
-  "version": 3,
+  "version": 4,
   "sleeves": {
     "_comment": "Nikita sleeve:",
     "classic": "https://m.media-amazon.com/images/I/81P2cRPfUdL._AC_UF894,1000_QL80_.jpg",
     "_comment": "Andrei sleeve:",
-    "waves": "https://i.pinimg.com/474x/01/7d/d6/017dd66bbb4b2dcbf17e5e24f0ec2f74.jpg",
+    "waves": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXo5bWplcHQxMHUyMm1sMHRrcmJjNWRnZWRhYzNlOWNxcm52eDJlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Te8lo8nkIfuER3bLUD/giphy.gif",
     "_comment": "Max sleeve:",
     "flames": "https://preview.redd.it/would-it-be-cool-brick-was-more-like-bender-from-futurama-v0-tkrm4ed754pd1.jpg?width=410&format=pjpg&auto=webp&s=fd97436d6b0a98c5116d2e90aba6ada181b6401c",
     "_comment": "Lev sleeve:",
@@ -13,7 +13,7 @@
   "players": {
     "AO": {
       "playerId": "3fa608e8-8374-48c3-a71f-043211518d4e",
-      "playmat": "https://images2.alphacoders.com/136/1360490.jpeg"
+      "playmat": "https://i.pinimg.com/736x/ed/ba/a2/edbaa216651abaad82e014fb3fc7f6e2.jpg"
     },
     "Lev": {
       "playerId": "273fed74-bc60-41d1-9ecb-7139f1992fd3",
