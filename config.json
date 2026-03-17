@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "sleeves": {
     "_comment": "Nikita sleeve:",
     "classic": "https://m.media-amazon.com/images/I/81P2cRPfUdL._AC_UF894,1000_QL80_.jpg",
@@ -52,6 +52,21 @@
       "name": "Devil Token",
       "match": "d7a88466-7f44-4535-a8d5-097ed747454d",
       "replace": "https://i.pinimg.com/736x/26/3d/2c/263d2c2c250fed7cbbc3b98cf99153ae.jpg"
+    },
+    {
+      "name": "Sol Ring",
+      "match": "180000d4-6844-4292-b768-b1f74a3b8b2d",
+      "replace": "https://i.pinimg.com/736x/c0/41/18/c0411896ea80a84bbce88e3d6f99641d.jpg"
+    },
+    {
+      "name": "Arcane Signet",
+      "match": "49175b73-d09a-43cb-bc89-fba82b5ccc1b",
+      "replace": "https://i.pinimg.com/736x/f6/ba/e2/f6bae2fa3371af09b8ed7d29644972ac.jpg"
+    },
+    {
+      "name": "Comand Tower",
+      "match": "d477d733-2360-4f1d-9ecd-cdedc2e8a7ae",
+      "replace": "https://i.pinimg.com/736x/d2/7b/14/d27b145db7bdfebeb5f48087aa01b510.jpg"
     },
     {
       "name": "Swamp1",
