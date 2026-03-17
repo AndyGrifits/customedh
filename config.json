@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "sleeves": {
     "_comment": "Nikita sleeve:",
     "classic": "https://m.media-amazon.com/images/I/81P2cRPfUdL._AC_UF894,1000_QL80_.jpg",
@@ -13,7 +13,7 @@
   "players": {
     "AO": {
       "playerId": "3fa608e8-8374-48c3-a71f-043211518d4e",
-      "playmat": "https://i.pinimg.com/736x/ed/ba/a2/edbaa216651abaad82e014fb3fc7f6e2.jpg"
+      "playmat": "https://i.pinimg.com/736x/4a/63/33/4a6333f6d0658ebe29eae943cb9aaa5c.jpg"
     },
     "Lev": {
       "playerId": "273fed74-bc60-41d1-9ecb-7139f1992fd3",
