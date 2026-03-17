@@ -37,6 +37,21 @@
       "name": "Naoya, Splitter of Seconds",
       "match": "03415c42-086e-4a2e-9be8-5cdcde83f134",
       "replace": "https://i.pinimg.com/736x/89/7d/b3/897db380c42e4f72d6c333b0461de44a.jpg"
+    }, 
+    {
+      "name": "Teferi Planeswalker",
+      "match": "2d1ff397-2445-459a-ae4e-7bf1cd48f490",
+      "replace": "https://i.pinimg.com/736x/63/39/42/633942085afb4f61ea9b2c6cf6e7950d.jpg"
+    },
+    {
+      "name": "Zariel Planeswalker",
+      "match": "7be5b866-d479-4698-98b2-87a973f6b8f6",
+      "replace": "https://i.pinimg.com/736x/62/6f/23/626f238628d28addb1b9003a52c452dc.jpg"
+    }, 
+    {
+      "name": "Devil Token",
+      "match": "d7a88466-7f44-4535-a8d5-097ed747454d",
+      "replace": "https://i.pinimg.com/736x/26/3d/2c/263d2c2c250fed7cbbc3b98cf99153ae.jpg"
     },
     {
       "name": "Swamp1",
