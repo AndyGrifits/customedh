@@ -34,11 +34,11 @@
   },
   "cardOverrides": [
     {
-      "name": "Test card override",
-      "match": "308cc687-9cb2-4e3a-98db-c5ba2a7da115",
+      "name": "Naoya, Splitter of Seconds",
+      "match": "03415c42-086e-4a2e-9be8-5cdcde83f134",
       "replace": {
-        "small": "https://example.com/cards/test-small.jpg",
-        "normal": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lmam0xbDlvZ2c4d3I0bWl1eW03bTFyMm0xOG9mbGxiZTBqZXk0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GIyCdCSkU05ECsxEP/giphy.gif"
+        "small": "https://i.pinimg.com/736x/c8/f1/ba/c8f1babfb147fb87db78fdfb240d3420.jpg",
+        "normal": "https://i.pinimg.com/736x/89/7d/b3/897db380c42e4f72d6c333b0461de44a.jpg"
       }
     }
   ]
