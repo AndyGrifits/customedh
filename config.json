@@ -36,10 +36,32 @@
     {
       "name": "Naoya, Splitter of Seconds",
       "match": "03415c42-086e-4a2e-9be8-5cdcde83f134",
-      "replace": {
-        "small": "https://i.pinimg.com/736x/c8/f1/ba/c8f1babfb147fb87db78fdfb240d3420.jpg",
-        "normal": "https://i.pinimg.com/736x/89/7d/b3/897db380c42e4f72d6c333b0461de44a.jpg"
-      }
+      "replace": "https://i.pinimg.com/736x/89/7d/b3/897db380c42e4f72d6c333b0461de44a.jpg"
+    },
+    {
+      "name": "Swamp",
+      "match": "58496a56-437f-4204-9691-f63795e5cdab",
+      "replace": "https://i.pinimg.com/736x/c9/68/3f/c9683fd076836ecd89d54748763ca6c6.jpg"
+    },
+    {
+      "name": "Plains",
+      "match": "df31f72c-076e-4d8e-9975-6d6281ab71f6",
+      "replace": "https://i.pinimg.com/736x/67/d9/fd/67d9fda46c15f6502f933405df318601.jpg"
+    },
+    {
+      "name": "Forest",
+      "match": "673141ec-826f-4132-8282-d499990495a7",
+      "replace": "https://i.pinimg.com/736x/e8/85/da/e885dad836e166cfb3749be369c8d269.jpg"
+    },
+    {
+      "name": "Mountains",
+      "match": "de0ac2b0-175b-4e71-9172-ce2a72234818",
+      "replace": "https://i.pinimg.com/736x/86/35/1d/86351d262b2d97d36b5cc9e96fcd3fd8.jpg"
+    },
+    {
+      "name": "Island",
+      "match": "aaa212be-1db5-4493-86c8-c01d29348e31",
+      "replace": "https://i.pinimg.com/736x/b4/59/07/b459072f261bf1b8e7f395f57e27c1c2.jpg"
     }
   ]
 }
